@@ -1,0 +1,14 @@
+from selenium import webdriver
+driver = webdriver.Firefox()
+page = input()
+driver.get(page)
+urllist = []
+
+
+
+
+
+
+Chapter_dict{ url:{} for url in urllist}
+}
+    
